@@ -1,4 +1,4 @@
-# prodigy task 01 
+# Prodigy DS task 01 
 Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population
 
 📊 Understanding the demographic makeup of a population is essential for informed decision-making across various sectors. Visualizing the distribution of key variables, such as age, gender, income, or education level, provides invaluable insights into population dynamics. Whether you're a policymaker shaping public initiatives, a healthcare professional designing tailored services, or a marketer refining your strategies, these visualizations offer a clear snapshot of population characteristics. By creating bar charts or histograms, we can easily grasp trends, spot outliers, and identify areas for targeted interventions. Let's harness the power of data visualization to drive evidence-based decisions and positively impact communities. hashtag#DataVisualization hashtag#PopulationInsights hashtag#DecisionMaking 📈🌍
