@@ -1,6 +1,6 @@
 # Prodigy DS task 01 
 📊 Population Demographics Visualization
-Bar Charts & Histograms | Data Visualization | Python | Matplotlib & Seaborn
+
 
 🔍 Project Summary
 Designed visualizations to represent the distribution of key population variables such as age, gender, income, and education levels. These charts provide actionable insights into population dynamics, supporting data-driven decisions in sectors like healthcare, policy-making, and marketing.
